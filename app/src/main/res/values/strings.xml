@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tic tac toe</string>
+    <string name="turn_x">Turn P1</string>
+    <string name="a1">a1</string>
+    <string name="a2">a2</string>
+    <string name="b1">b1</string>
+    <string name="b2">b2</string>
+    <string name="b3">b3</string>
+    <string name="c1">c1</string>
+    <string name="c2">c2</string>
+    <string name="c3">c3</string>
+    <string name="a3">a3</string>
+</resources>
